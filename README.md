@@ -1,4 +1,4 @@
-# 🧪 Prompt Injection Simulator
+#  Prompt Injection Simulator
 
 A testing utility to evaluate the robustness of large language models (LLMs) against **prompt injection** and **jailbreak attacks**. The simulator applies a strict system prompt and tests it against adversarial inputs to assess the assistant’s ability to maintain safety constraints.
 
